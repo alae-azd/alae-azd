@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alae Azdou</h1>
 <h3 align="center">Python Enthusiast on a Coding Odyssey 🐍</h3>
+https://s3.amazonaws.com/image.yogile.com/vk3ispntdw0/zqdrptzolzl-large.png?1691970451
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alae-azd&label=Profile%20views&color=0e75b6&style=flat" alt="alae-azd" /> </p>
 
