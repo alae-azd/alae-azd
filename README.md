@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alae Azdou</h1>
 <h3 align="center">Python Enthusiast on a Coding Odyssey 🐍</h3>
-<a href="https://www.vecteezy.com/png/24098744-male-developer-with-laptop">male developer with laptop PNGs by Vecteezy</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alae-azd&label=Profile%20views&color=0e75b6&style=flat" alt="alae-azd" /> </p>
 
