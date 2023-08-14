@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alae Azdou</h1>
 <h3 align="center">Python Enthusiast on a Coding Odyssey 🐍</h3>
 
+https://cdn3d.iconscout.com/3d/premium/thumb/website-development-5984576-4971246.png
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alae-azd&label=Profile%20views&color=0e75b6&style=flat" alt="alae-azd" /> </p>
 
 - 🔭 I’m currently working on **30-Days-Of-Python**
