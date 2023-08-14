@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alae Azdou</h1>
 <h3 align="center">Python Enthusiast on a Coding Odyssey 🐍</h3>
 
-<img align="right" width="400" src="https://app.lottiefiles.com/animation/02f17c64-7e86-4db5-a492-1a2bf7d8ce4d">
+<img align="right" width="250" src="https://github.com/alae-azd/alae-azd/assets/142126536/eb75b6b5-38b9-4cd0-a5a5-ec357e360331">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alae-azd&label=Profile%20views&color=0e75b6&style=flat" alt="alae-azd" /> </p>
