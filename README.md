@@ -13,7 +13,6 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/alae-azd)
 
 - 💬 Ask me about **Python**
-
 - 📫 How to reach me **azdoualae.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
