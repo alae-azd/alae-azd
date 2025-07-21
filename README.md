@@ -1,36 +1,67 @@
-<h1 align="center">Hi 👋, I'm Alae Azdou</h1>
-<h3 align="center">Python Enthusiast on a Coding Odyssey 🐍</h3>
+<h1 align="center">👋 Hello, I'm Alae Azdou</h1>
+<h3 align="center">Full-Stack Developer | Data & Cloud Enthusiast | Python Lover 🐍</h3>
 
 <img align="right" width="250" src="https://github.com/alae-azd/alae-azd/assets/142126536/eb75b6b5-38b9-4cd0-a5a5-ec357e360331">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alae-azd&label=Profile%20views&color=0e75b6&style=flat" alt="alae-azd" /> </p>
-
-- 🔭 I’m currently working on [30-Days-Of-Python](https://github.com/alae-azd/Python_Training)
-
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/alae-azd)
-
-- 💬 Ask me about **Python**
-- 📫 How to reach me **azdoualae.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alaeazdou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaeazdou" height="30" width="40" /></a>
-<a href="https://discord.gg/alae_ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alae_ad" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=alae-azd&label=Profile%20views&color=0e75b6&style=flat" alt="alae-azd" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+🎓 Je suis diplômé en ingénierie informatique (4IIR – EMSI). <br>
+💼 J’ai effectué un stage chez **CDG NOVEC** à Technopolis, où j’ai travaillé comme **développeur full-stack**. <br>
+🚀 Je me spécialise actuellement dans les technologies **Big Data, Hadoop, PySpark, Hive, Superset**, tout en consolidant mes bases en **cloud computing (Azure)**. <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alae-azd&show_icons=true&locale=en&layout=compact" alt="alae-azd" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alae-azd&show_icons=true&locale=en" alt="alae-azd" /></p>
+### 🧰 Compétences clés
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alae-azd&" alt="alae-azd" /></p>
+- 🔹 **Développement Web** : HTML, CSS, JS, Bootstrap, Flask, PHP
+- 🔹 **Backend / Base de données** : Python, MySQL, Oracle SQL, PL/SQL
+- 🔹 **Big Data & Cloud** : Hadoop, Hive, Pig, PySpark, Superset, Azure
+- 🔹 **Outils** : Git, GitHub, Linux, Bash, VS Code
 
+---
 
+### 📚 Projets en cours
 
+- 📌 [30 Days of Python](https://github.com/alae-azd/Python_Training) — Formation pratique et projets Python
+- 📌 Dashboard Big Data BMW avec Hadoop, Hive, Superset & Spark
+- 📌 Scripts d’analyse de données avec PySpark
 
+---
+
+### 📫 Me contacter
+
+- 💼 LinkedIn : [Alae Azdou](https://www.linkedin.com/in/alaeazdou)
+- 💬 Discord : `alae_ad`
+- 📧 Email : **azdoualae.dev@gmail.com**
+
+---
+
+### 🛠️ Langages & outils
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alae-azd&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alae-azd&layout=compact&show_icons=true&theme=default" alt="Top Langs" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alae-azd&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+> 🎯 Objectif : devenir un ingénieur expert en solutions **Big Data**, **Cloud** et **IA**, au service de projets innovants et à fort impact.
 
