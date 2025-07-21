@@ -8,7 +8,6 @@
 </p>
 
 🎓 Je suis diplômé en ingénierie informatique (4IIR – EMSI). <br>
-💼 J’ai effectué un stage chez **CDG NOVEC** à Technopolis, où j’ai travaillé comme **développeur full-stack**. <br>
 🚀 Je me spécialise actuellement dans les technologies **Big Data, Hadoop, PySpark, Hive, Superset**, tout en consolidant mes bases en **cloud computing (Azure)**. <br>
 
 ---
